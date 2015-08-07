@@ -1,13 +1,13 @@
 {
-  "name": "ShareDrop",
-  "description": "Simple file sharing",
+  "name": "FlyMyFile",
+  "description": "PureJS Peer2Peer File Sharing",
   "version": "1",
   "app": {
     "urls": [
-      "https:/www.sharedrop.io/"
+      "http:/www.flymyfile.com/"
     ],
     "launch": {
-      "web_url": "https:/www.sharedrop.io/"
+      "web_url": "http:/www.flymyfile.com/"
     }
   },
   "icons": {

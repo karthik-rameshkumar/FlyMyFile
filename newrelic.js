@@ -8,7 +8,7 @@ exports.config = {
   /**
    * Array of application names.
    */
-  app_name : ['ShareDrop'],
+  app_name : ['FlyMyFile'],
 
   logging : {
     /**
